@@ -1,8 +1,9 @@
 {
   "name": "Blood Pressure Advisor",
   "short_name": "blood-pressu",
-  "start_url": "/",
+  "start_url": "/blood-pressure-advisor/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/blood-pressure-advisor/"
 }
